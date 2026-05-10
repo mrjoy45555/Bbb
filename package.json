@@ -3,11 +3,7 @@
   "version": "20.20.0",
   "description": "MIRAI BOT NEW VERSION COOKIES JOY-BOT",
   "main": "Joy/catalogs/Joya.js",
-  "author": {
-    "name": "JOY",
-    "email": "joyahmedtt@gmail.com",
-    "url": "https://www.facebook.com/100000482524747"
-  },
+  "author": "JOY",
   "license": "MIT",
   "engines": {
     "node": "20.x",
